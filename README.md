@@ -6,6 +6,8 @@ Filmco is a React Native movie tracking app `(Ongoing)` [LIVE on Youtube](https:
 
 `Note: I excluded android and ios folders.`
 
+![Screenshot](https://i.hizliresim.com/86nksw7.jpg)
+
 ## Development
 ### `git clone https://github.com/comertcimen/filmco.git`
 
